@@ -1,0 +1,228 @@
+{
+  "timestamp": "20250707_184754",
+  "dataset_info": {
+    "total_tracks": 1562,
+    "cities": [
+      "Nashville",
+      "Los Angeles",
+      "Chicago",
+      "Miami",
+      "New York",
+      "Seattle",
+      "Austin",
+      "Atlanta"
+    ],
+    "analysis_date": "2025-07-07T18:47:54.268373"
+  },
+  "genre_analysis": {
+    "Nashville": {
+      "total_tracks": 185,
+      "tracks_with_genres": 176,
+      "unique_genres": 16,
+      "top_genre": "country",
+      "top_genre_pct": 92.43,
+      "genre_diversity": 0.08648648648648649,
+      "top_5_genres": {
+        "country": 92.43,
+        "acoustic country": 28.65,
+        "red dirt": 12.97,
+        "texas country": 9.73,
+        "outlaw country": 6.49
+      }
+    },
+    "Los Angeles": {
+      "total_tracks": 198,
+      "tracks_with_genres": 161,
+      "unique_genres": 109,
+      "top_genre": "west coast hip hop",
+      "top_genre_pct": 39.9,
+      "genre_diversity": 0.5505050505050505,
+      "top_5_genres": {
+        "west coast hip hop": 39.9,
+        "gangster rap": 32.83,
+        "g-funk": 29.29,
+        "old school hip hop": 28.79,
+        "hip hop": 22.73
+      }
+    },
+    "Chicago": {
+      "total_tracks": 200,
+      "tracks_with_genres": 180,
+      "unique_genres": 48,
+      "top_genre": "chicago drill",
+      "top_genre_pct": 49.5,
+      "genre_diversity": 0.24,
+      "top_5_genres": {
+        "chicago drill": 49.5,
+        "drill": 44.5,
+        "chicago house": 26.5,
+        "footwork": 6.5,
+        "acid house": 6.5
+      }
+    },
+    "Miami": {
+      "total_tracks": 199,
+      "tracks_with_genres": 111,
+      "unique_genres": 48,
+      "top_genre": "edm",
+      "top_genre_pct": 13.07,
+      "genre_diversity": 0.24120603015075376,
+      "top_5_genres": {
+        "edm": 13.07,
+        "hypertechno": 12.56,
+        "big room": 7.04,
+        "latin": 4.52,
+        "house": 4.02
+      }
+    },
+    "New York": {
+      "total_tracks": 190,
+      "tracks_with_genres": 64,
+      "unique_genres": 26,
+      "top_genre": "pop",
+      "top_genre_pct": 14.74,
+      "genre_diversity": 0.1368421052631579,
+      "top_5_genres": {
+        "pop": 14.74,
+        "rap": 6.84,
+        "hip hop": 6.32,
+        "art pop": 3.68,
+        "soft pop": 3.68
+      }
+    },
+    "Seattle": {
+      "total_tracks": 199,
+      "tracks_with_genres": 191,
+      "unique_genres": 36,
+      "top_genre": "grunge",
+      "top_genre_pct": 37.69,
+      "genre_diversity": 0.18090452261306533,
+      "top_5_genres": {
+        "grunge": 37.69,
+        "jazz": 35.68,
+        "cool jazz": 35.18,
+        "hard bop": 34.67,
+        "bebop": 34.67
+      }
+    },
+    "Austin": {
+      "total_tracks": 198,
+      "tracks_with_genres": 96,
+      "unique_genres": 22,
+      "top_genre": "indie rock",
+      "top_genre_pct": 12.63,
+      "genre_diversity": 0.1111111111111111,
+      "top_5_genres": {
+        "indie rock": 12.63,
+        "country": 7.07,
+        "indie": 7.07,
+        "post-hardcore": 6.57,
+        "alternative rock": 5.05
+      }
+    },
+    "Atlanta": {
+      "total_tracks": 193,
+      "tracks_with_genres": 138,
+      "unique_genres": 19,
+      "top_genre": "southern hip hop",
+      "top_genre_pct": 51.3,
+      "genre_diversity": 0.09844559585492228,
+      "top_5_genres": {
+        "southern hip hop": 51.3,
+        "crunk": 31.09,
+        "rap": 17.1,
+        "gangster rap": 8.29,
+        "trap": 7.77
+      }
+    }
+  },
+  "popularity_tests": {
+    "artist_popularity_test": {
+      "h_stat": 226.7690613827197,
+      "p_value": 2.410618188791976e-45,
+      "significant": true
+    },
+    "track_popularity_test": {
+      "h_stat": 539.2300426161709,
+      "p_value": 2.9308843479127543e-112,
+      "significant": true
+    },
+    "distribution_test": {
+      "chi2_statistic": 525.1569075700676,
+      "p_value": 4.382040488316962e-93,
+      "degrees_of_freedom": 28,
+      "independent": false
+    }
+  },
+  "temporal_tests": {
+    "era_distribution_test": {
+      "chi2_statistic": 911.6157781448429,
+      "p_value": 9.962629890248722e-169,
+      "independent": false
+    }
+  },
+  "correlation_summary": {
+    "top_correlations": [
+      {
+        "variable1": "artist_popularity",
+        "variable2": "artist_followers",
+        "correlation": 0.5064530841491028,
+        "abs_correlation": 0.5064530841491028
+      },
+      {
+        "variable1": "artist_popularity",
+        "variable2": "track_popularity",
+        "correlation": 0.4505556552693971,
+        "abs_correlation": 0.4505556552693971
+      },
+      {
+        "variable1": "genre_count",
+        "variable2": "track_age_years",
+        "correlation": 0.39130441714053843,
+        "abs_correlation": 0.39130441714053843
+      },
+      {
+        "variable1": "duration_minutes",
+        "variable2": "genre_count",
+        "correlation": 0.3699070833828057,
+        "abs_correlation": 0.3699070833828057
+      },
+      {
+        "variable1": "duration_minutes",
+        "variable2": "track_age_years",
+        "correlation": 0.3286809718945003,
+        "abs_correlation": 0.3286809718945003
+      },
+      {
+        "variable1": "track_popularity",
+        "variable2": "artist_followers",
+        "correlation": 0.29269323665267616,
+        "abs_correlation": 0.29269323665267616
+      },
+      {
+        "variable1": "track_popularity",
+        "variable2": "genre_count",
+        "correlation": -0.24207501901979364,
+        "abs_correlation": 0.24207501901979364
+      },
+      {
+        "variable1": "track_popularity",
+        "variable2": "duration_minutes",
+        "correlation": -0.1491180996585629,
+        "abs_correlation": 0.1491180996585629
+      },
+      {
+        "variable1": "artist_followers",
+        "variable2": "genre_count",
+        "correlation": -0.1392744516857263,
+        "abs_correlation": 0.1392744516857263
+      },
+      {
+        "variable1": "track_popularity",
+        "variable2": "track_age_years",
+        "correlation": -0.10803240897501092,
+        "abs_correlation": 0.10803240897501092
+      }
+    ]
+  }
+}

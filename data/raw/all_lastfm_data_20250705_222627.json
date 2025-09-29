@@ -1,0 +1,2850 @@
+{
+  "Nashville": {
+    "city": "Nashville",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:19:09.677835"
+  },
+  "Los Angeles": {
+    "city": "Los Angeles",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:20:11.126221"
+  },
+  "Chicago": {
+    "city": "Chicago",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:21:09.890849"
+  },
+  "Miami": {
+    "city": "Miami",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:22:12.275533"
+  },
+  "New York": {
+    "city": "New York",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:23:14.343495"
+  },
+  "Seattle": {
+    "city": "Seattle",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:24:23.663709"
+  },
+  "Austin": {
+    "city": "Austin",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:25:26.484476"
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "top_tracks": [
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 0,
+        "listeners": 3435732,
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+      },
+      {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "playcount": 0,
+        "listeners": 1640886,
+        "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      },
+      {
+        "name": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "playcount": 0,
+        "listeners": 2235921,
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+      },
+      {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3604171,
+        "url": "https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit"
+      },
+      {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "playcount": 0,
+        "listeners": 2352526,
+        "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+      },
+      {
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2419176,
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "playcount": 0,
+        "listeners": 3156048,
+        "url": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc."
+      },
+      {
+        "name": "The Middle",
+        "artist": "Jimmy Eat World",
+        "playcount": 0,
+        "listeners": 1776919,
+        "url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle"
+      },
+      {
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 3392768,
+        "url": "https://www.last.fm/music/Radiohead/_/Creep"
+      },
+      {
+        "name": "Africa",
+        "artist": "Toto",
+        "playcount": 0,
+        "listeners": 1909224,
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "name": "Everlong",
+        "artist": "Foo Fighters",
+        "playcount": 0,
+        "listeners": 2663957,
+        "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+      },
+      {
+        "name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "playcount": 0,
+        "listeners": 2574809,
+        "url": "https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army"
+      },
+      {
+        "name": "Take on Me",
+        "artist": "a-ha",
+        "playcount": 0,
+        "listeners": 2474601,
+        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+      },
+      {
+        "name": "Come as You Are",
+        "artist": "Nirvana",
+        "playcount": 0,
+        "listeners": 3258067,
+        "url": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
+      },
+      {
+        "name": "Midnight City",
+        "artist": "M83",
+        "playcount": 0,
+        "listeners": 1861155,
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "name": "Can't Feel My Face",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1582999,
+        "url": "https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1974443,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "playcount": 0,
+        "listeners": 2828173,
+        "url": "https://www.last.fm/music/Radiohead/_/Karma+Police"
+      },
+      {
+        "name": "September",
+        "artist": "Earth, Wind & Fire",
+        "playcount": 0,
+        "listeners": 1874285,
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "playcount": 0,
+        "listeners": 1890951,
+        "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son"
+      },
+      {
+        "name": "Fade Into You",
+        "artist": "Mazzy Star",
+        "playcount": 0,
+        "listeners": 1753085,
+        "url": "https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You"
+      },
+      {
+        "name": "Buddy Holly",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1941312,
+        "url": "https://www.last.fm/music/Weezer/_/Buddy+Holly"
+      },
+      {
+        "name": "Say It Ain't So",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1525881,
+        "url": "https://www.last.fm/music/Weezer/_/Say+It+Ain%27t+So"
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "playcount": 0,
+        "listeners": 942546,
+        "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+      },
+      {
+        "name": "All the Small Things",
+        "artist": "blink-182",
+        "playcount": 0,
+        "listeners": 2148661,
+        "url": "https://www.last.fm/music/blink-182/_/All+the+Small+Things"
+      },
+      {
+        "name": "Maps",
+        "artist": "Yeah Yeah Yeahs",
+        "playcount": 0,
+        "listeners": 1450196,
+        "url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps"
+      },
+      {
+        "name": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "playcount": 0,
+        "listeners": 2464315,
+        "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge"
+      },
+      {
+        "name": "Two Weeks",
+        "artist": "Grizzly Bear",
+        "playcount": 0,
+        "listeners": 1094304,
+        "url": "https://www.last.fm/music/Grizzly+Bear/_/Two+Weeks"
+      },
+      {
+        "name": "Redbone",
+        "artist": "Childish Gambino",
+        "playcount": 0,
+        "listeners": 1702310,
+        "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      },
+      {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "playcount": 0,
+        "listeners": 2683567,
+        "url": "https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out"
+      },
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "playcount": 0,
+        "listeners": 2157331,
+        "url": "https://www.last.fm/music/Green+Day/_/Basket+Case"
+      },
+      {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "playcount": 0,
+        "listeners": 1956645,
+        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+      },
+      {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "playcount": 0,
+        "listeners": 1943075,
+        "url": "https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun"
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "playcount": 0,
+        "listeners": 1497636,
+        "url": "https://www.last.fm/music/Beck/_/Loser"
+      },
+      {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "playcount": 0,
+        "listeners": 1485920,
+        "url": "https://www.last.fm/music/Sublime/_/Santeria"
+      },
+      {
+        "name": "Hotline Bling",
+        "artist": "Drake",
+        "playcount": 0,
+        "listeners": 1163076,
+        "url": "https://www.last.fm/music/Drake/_/Hotline+Bling"
+      },
+      {
+        "name": "Island in the Sun",
+        "artist": "Weezer",
+        "playcount": 0,
+        "listeners": 1915105,
+        "url": "https://www.last.fm/music/Weezer/_/Island+in+the+Sun"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "playcount": 0,
+        "listeners": 1504802,
+        "url": "https://www.last.fm/music/The+xx/_/Intro"
+      },
+      {
+        "name": "Kids",
+        "artist": "MGMT",
+        "playcount": 0,
+        "listeners": 2584599,
+        "url": "https://www.last.fm/music/MGMT/_/Kids"
+      },
+      {
+        "name": "Just Like Heaven",
+        "artist": "The Cure",
+        "playcount": 0,
+        "listeners": 1943226,
+        "url": "https://www.last.fm/music/The+Cure/_/Just+Like+Heaven"
+      },
+      {
+        "name": "Landslide",
+        "artist": "Fleetwood Mac",
+        "playcount": 0,
+        "listeners": 1189855,
+        "url": "https://www.last.fm/music/Fleetwood+Mac/_/Landslide"
+      },
+      {
+        "name": "Alright",
+        "artist": "Kendrick Lamar",
+        "playcount": 0,
+        "listeners": 1618902,
+        "url": "https://www.last.fm/music/Kendrick+Lamar/_/Alright"
+      },
+      {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "playcount": 0,
+        "listeners": 2536561,
+        "url": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
+      },
+      {
+        "name": "Last Nite",
+        "artist": "The Strokes",
+        "playcount": 0,
+        "listeners": 1868180,
+        "url": "https://www.last.fm/music/The+Strokes/_/Last+Nite"
+      },
+      {
+        "name": "Space Song",
+        "artist": "Beach House",
+        "playcount": 0,
+        "listeners": 1715204,
+        "url": "https://www.last.fm/music/Beach+House/_/Space+Song"
+      },
+      {
+        "name": "Zombie",
+        "artist": "The Cranberries",
+        "playcount": 0,
+        "listeners": 2319355,
+        "url": "https://www.last.fm/music/The+Cranberries/_/Zombie"
+      },
+      {
+        "name": "1901",
+        "artist": "Phoenix",
+        "playcount": 0,
+        "listeners": 1398273,
+        "url": "https://www.last.fm/music/Phoenix/_/1901"
+      },
+      {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "playcount": 0,
+        "listeners": 1748192,
+        "url": "https://www.last.fm/music/Vampire+Weekend/_/A-Punk"
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "playcount": 0,
+        "listeners": 1795852,
+        "url": "https://www.last.fm/music/The+Weeknd/_/The+Hills"
+      },
+      {
+        "name": "Paper Planes",
+        "artist": "M.I.A.",
+        "playcount": 0,
+        "listeners": 2060773,
+        "url": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
+      }
+    ],
+    "collection_date": "2025-07-05T22:26:27.036469"
+  }
+}
