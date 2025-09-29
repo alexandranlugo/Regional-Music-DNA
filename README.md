@@ -23,7 +23,6 @@ This project analyzes regional music preferences across major US cities using Sp
 - `src/`: Python modules for data collection and analysis
 - `notebooks/`: Jupyter notebooks for exploration
 - `visualizations/`: Output charts and maps
-- `writing/`: Article drafts and notes
 
 ## Setup
 1. Clone repository
